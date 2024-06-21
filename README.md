@@ -14,3 +14,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <h1 align="center">Welcome to <a href="https://github.com/mahdihassani-dev">Mahdi Hassani</a>'s Profile 👋</h1>
+</p>
+<p align="center">
+  <a href="mailto:m.hassani4951383@gmail.com" >
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahdi-hassani-939602255/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p> 
+
+<ul>
+  <li>👋 Hi, I’m Mahdi Hassani</li>
+  <li>❤️ I love to be effective to the world and develop new ideas</li>
+  <li>🌱 I’m currently learning mobile development with kotlin and also increase my abilities in Ai</li>
+</ul>
+
+<h2>
+  Skills
+</h2>
+
+<p align="center">
+  <br>
+    <a href="https://skillicons.dev/">
+        <img src="https://skillicons.dev/icons?i=py,kotlin,java,git,androidstudio,tensorflow,arduino,cpp&perline=4" />
+    </a>
+</p>
+
+<h2>
+  Stats
+</h2>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mahdihassani-dev&show_icons=true&theme=monokai" style="max-width:50%;height:12em;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdihassani-dev&layout=compact&theme=monokai" style="max-width:50%;height:12em;">
+<p>
+
