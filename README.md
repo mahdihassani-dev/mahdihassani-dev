@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <ul>
   <li>👋 Hi, I’m Mahdi Hassani</li>
   <li>❤️ I love to be effective to the world and develop new ideas</li>
-  <li>🌱 I’m currently learning mobile development with kotlin and also increase my abilities in Ai</li>
+  <li>🌱 I’m currently Working in a team as a django developer and growing my skills in problem solving</li>
 </ul>
 
 <h2>
