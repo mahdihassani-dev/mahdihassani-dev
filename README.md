@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <p align="center">
   <br>
     <a href="https://skillicons.dev/">
-        <img src="https://skillicons.dev/icons?i=py,kotlin,java,git,androidstudio,tensorflow,arduino,cpp&perline=4" />
+        <img src="https://skillicons.dev/icons?i=py,kotlin,java,git,androidstudio,tensorflow,arduino,django,docker,cpp&perline=5" />
     </a>
 </p>
 
